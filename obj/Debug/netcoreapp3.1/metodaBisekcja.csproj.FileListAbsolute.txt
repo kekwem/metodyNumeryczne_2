@@ -1,0 +1,14 @@
+C:\Users\Dimon\source\repos\metodaBisekcja\bin\Debug\netcoreapp3.1\metodaBisekcja.exe
+C:\Users\Dimon\source\repos\metodaBisekcja\bin\Debug\netcoreapp3.1\metodaBisekcja.deps.json
+C:\Users\Dimon\source\repos\metodaBisekcja\bin\Debug\netcoreapp3.1\metodaBisekcja.runtimeconfig.json
+C:\Users\Dimon\source\repos\metodaBisekcja\bin\Debug\netcoreapp3.1\metodaBisekcja.runtimeconfig.dev.json
+C:\Users\Dimon\source\repos\metodaBisekcja\bin\Debug\netcoreapp3.1\metodaBisekcja.dll
+C:\Users\Dimon\source\repos\metodaBisekcja\bin\Debug\netcoreapp3.1\metodaBisekcja.pdb
+C:\Users\Dimon\source\repos\metodaBisekcja\obj\Debug\netcoreapp3.1\metodaBisekcja.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\metodaBisekcja\obj\Debug\netcoreapp3.1\metodaBisekcja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimon\source\repos\metodaBisekcja\obj\Debug\netcoreapp3.1\metodaBisekcja.AssemblyInfoInputs.cache
+C:\Users\Dimon\source\repos\metodaBisekcja\obj\Debug\netcoreapp3.1\metodaBisekcja.AssemblyInfo.cs
+C:\Users\Dimon\source\repos\metodaBisekcja\obj\Debug\netcoreapp3.1\metodaBisekcja.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\metodaBisekcja\obj\Debug\netcoreapp3.1\metodaBisekcja.dll
+C:\Users\Dimon\source\repos\metodaBisekcja\obj\Debug\netcoreapp3.1\metodaBisekcja.pdb
+C:\Users\Dimon\source\repos\metodaBisekcja\obj\Debug\netcoreapp3.1\metodaBisekcja.genruntimeconfig.cache
